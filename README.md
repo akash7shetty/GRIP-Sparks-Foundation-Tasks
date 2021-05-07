@@ -4,5 +4,7 @@
 
 Task: To Predict the percentage of a student based on the no. of study hours. Simple Linear Regrssion is used as it involves just 2 variables. Output: To find predicted score if a student studies for 9.25 hrs/day.
 
+Data can be found at DATA(http://bit.ly/w-data)
+
 Technologies and Libraries Used:
 Python3, Pandas, Numpy, matplotlib. pyplot, seaborn.
