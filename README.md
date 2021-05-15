@@ -6,8 +6,8 @@ Task 1: To Predict the percentage of a student based on the no. of study hours. 
 
 Task 2: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually using Python or R Language.
 
-Data for Task 1 can be found at DATA(http://bit.ly/w-data)
-ata for Task 2 can be found at DATA(https://bit.ly/3kXTdox)
+Data for Task 1 can be found at DATA(http://bit.ly/w-data) and 
+Data for Task 2 can be found at DATA(https://bit.ly/3kXTdox)
 
 Technologies and Libraries Used:
 Python3, Pandas, Numpy, matplotlib. pyplot, seaborn.
